@@ -35,7 +35,7 @@ Các tập tin báo cáo chi tiết được đính kèm trong thư mục dự �
 1. **`Nội dung báo cáo dự án.docx`**: File báo cáo chi tiết toàn bộ nội dung nghiên cứu, phân tích mối đe dọa, giải pháp đề xuất và tài liệu tham khảo của nhóm.
 2. **`Mối đe dọa an ninh mạng trên mạng xã hội.pptx`**: File slide thuyết trình tóm tắt nội dung nghiên cứu và kịch bản minh họa của nhóm.
 3. **`Đánh giá CRAAP an ninh mạng xã hội việt nam.xlsx`**: Bảng tính tổng hợp và chấm điểm đánh giá độ tin cậy của 8 nguồn tài liệu theo tiêu chí CRAAP.
-4. **`Trang phảnh ánh quá trình thực hiện dự án.docx`**: File ghi nhận những khó khăn, cách sử dụng công cụ AI hỗ trợ và bài học kinh nghiệm của nhóm.
+4. **`Trang phản ánh quá trình thực hiện dự án.docx`**: File ghi nhận những khó khăn, cách sử dụng công cụ AI hỗ trợ và bài học kinh nghiệm của nhóm.
 
 ---
 *Báo cáo bài thực hành - Học phần CNTT - Trường Đại học Cần Thơ.*
