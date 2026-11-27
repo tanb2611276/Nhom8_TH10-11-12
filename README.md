@@ -1,4 +1,3 @@
-```markdown
 # BÁO CÁO BÀI THỰC HÀNH BUỔI 10–12
 ## DỰ ÁN NHÓM TÍCH HỢP: MỐI ĐE DỌA AN NINH MẠNG TRÊN MẠNG XÃ HỘI
 
@@ -41,7 +40,3 @@ Các tập tin báo cáo chi tiết được đính kèm trong thư mục dự �
 ---
 *Báo cáo bài thực hành - Học phần CNTT - Trường Đại học Cần Thơ.*
 ```[cite: 36, 37, 38]
-
-Cậu chỉ cần sao chép toàn bộ khung trên dán vào file `README.md` trên GitHub rồi bấm **Commit changes** là xong ngay nhé!
-
-```
