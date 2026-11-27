@@ -1,5 +1,3 @@
-Dưới đây là bản **`README.md`** được trình bày đúng theo cấu trúc mẫu buổi thực hành trước của cậu, chỉ liệt kê đúng 4 tập tin trên GitHub của nhóm:
-
 ```markdown
 # BÁO CÁO BÀI THỰC HÀNH BUỔI 10–12
 ## DỰ ÁN NHÓM TÍCH HỢP: MỐI ĐE DỌA AN NINH MẠNG TRÊN MẠNG XÃ HỘI
